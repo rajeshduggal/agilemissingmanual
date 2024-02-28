@@ -19,12 +19,19 @@
 # Confirm we're still on branch "master".
 # ../bin/hugo new site . --force
 # git add hugo.toml publish_to_gh-pages.sh archetypes/default.md
-# git commit -m "Add config.toml archetypes/default.md"
+# git commit -m "Add hugo.toml publish_to_gh.sh archetypes/default.md"
 # git push origin master
+#
+# If the theme is being installed as a git submodule
 # git submodule add https://github.com/MunifTanjim/minimo themes/minimo
 # git submodule init
 # git submodule update
-# cp themes/minimo/exampleSite/config.toml .
+#
+# If the theme is being installed as a hugo module then:
+# hugo mod init // and follow additional theme module instructions.
+#
+# cp -R themes/hugo-book/exampleSite/content.en/* ./content
+#
 # Modify the config.toml configuration file to fit your site.
 # Test the site ../bin/hugo server -D
 # cp themes/minimo/archetypes/default.md archetypes/default.md
