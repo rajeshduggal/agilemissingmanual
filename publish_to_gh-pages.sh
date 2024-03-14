@@ -6,7 +6,7 @@
 # git init
 # git remote add origin git@github.com:rajeshduggal/darmiyaan.com.git
 # git branch -m gh-pages
-# git commit --allow-empty -m "Start the /public branch"
+# git commit --allow-empty -m "Start the public branch"
 # git push -u origin gh-pages
 # git checkout --orphan master
 # curl -L -s -o .gitignore https://www.gitignore.io/api/visualstudiocode%2Cvim%2Chugo
@@ -43,6 +43,12 @@
 # Run the script to publish your site
 # ./publish_to_gh-pages.sh
 # 
+# ------
+# Fastmail dns configuration
+#
+# Point the domain name servers to fastmail. Then in fastmail, add the CNAME and A records  https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https
+# Also remember to disable the default "A" records by unchecking the appropriate checkboxes.
+
 # ------
 # secured custom domain name:
 # https://help.github.com/articles/setting-up-an-apex-domain/#configuring-a-records-with-your-dns-provider
