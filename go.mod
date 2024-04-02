@@ -1,4 +1,4 @@
-module github.com/repo/path
+module github.com/rajeshduggal/agilemissingmanual
 
 go 1.12
 

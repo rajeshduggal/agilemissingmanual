@@ -4,4 +4,18 @@ title = 'Agile Missing Manual'
 
 [module]
 [[module.imports]]
-    path = 'github.com/alex-shpak/hugo-book'
+  path = 'github.com/alex-shpak/hugo-book'
+
+[params]
+  # (Optional, default docs) Specify section of content to render as menu
+  # You can also set value to "*" to render all sections to menu
+  BookSection = '*'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    contentDir = 'content.en'
+    languageName = 'English'
+    weight = 1
