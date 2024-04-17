@@ -2,6 +2,8 @@ baseURL = 'https://AgileMissingManual.com/'
 languageCode = 'en-us'
 title = 'Agile Missing Manual'
 
+googleAnalytics = "G-YLW402WWZF"
+
 [module]
 [[module.imports]]
   path = 'github.com/alex-shpak/hugo-book'
