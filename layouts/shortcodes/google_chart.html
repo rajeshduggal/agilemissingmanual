@@ -1,0 +1,58 @@
+<div id="{{ .Get "id" }}" style="width: 100%; height: 400px;"></div>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+  google.charts.load('current', {packages: ['corechart']});
+
+  google.charts.setOnLoadCallback(function () {
+      var data = new google.visualization.DataTable();
+      data.addColumn('string', 'URL');
+      data.addColumn('number', 'Ease');
+      data.addColumn('number', 'Value');
+      data.addColumn({ role: 'annotation'});
+      data.addColumn({ role: 'tooltip', p: {html:true}});
+
+      data.addRows([
+        ['/practices-and-techniques/keep-detailed-specs-out-of-user-stories', 7, 8, 'Specs Out Of Stories', 'Keep Detailed Specifications Out Of User Stories'],
+        ['/introduction/author/', 2, 3, 'Story Divisor', 'Put a bar in the story description'],
+        ['/AAA',1, 8, 'Suggest Vs Req', 'Created a "suggested" verses "required"'],
+        ['/practices-and-techniques/qa-as-part-of-development',8, 9, 'QA in Dev', 'QA As Part Of Development'],
+        ['/practices-and-techniques/deploy-mid-sprint',2, 10, 'Deploy Mid-Sprint', 'Deploy as often as possible'],
+        ['/AAA',4, 7, 'Videod Demos', 'Make a little video demoing each new work item. With the date .'],
+        ['/AAA',10, 8, 'Job Titles', 'Generalize Job Titles'],
+        ['/AAA',8, 7, 'Scrum Team Members', 'Identify who is in and who is our of the scrum team'],
+        ['/AAA',3, 3, 'Velocity', 'Approach velocity differently'],
+        ['/AAA',6, 4, 'Less Planning', 'Don\'t plan deliverables in future sprints prematurely']
+      ]);
+      
+      var view = new google.visualization.DataView(data);
+      view.setColumns([1, 2, 3, 4]);
+
+      var options = {
+          title: 'Changes To Implement',
+          hAxis: {title: 'Ease Of Implementation', minValue: 0, maxValue: 10},
+          vAxis: {title: 'Value', minValue: 0, maxValue: 10},
+          tooltip: {isHtml: true},
+          legend: 'none',
+          width: '100%'
+      };
+      
+      var chart = new google.visualization.ScatterChart(document.getElementById('{{ .Get "id" }}'));
+
+      google.visualization.events.addListener(chart,'select', function() {
+          var selection = chart.getSelection();
+          if (selection.length > 0) {
+            var row = selection[0].row;  
+            var url = data.getValue(row, 0);
+            window.location.href = url;
+          }
+        });
+
+      chart.draw(view, options);
+
+      // Redraw the chart on window resize to make it responsive
+      window.addEventListener('resize', function() {
+        chart.draw(view, options);
+      });
+
+  });
+</script>

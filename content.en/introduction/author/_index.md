@@ -6,35 +6,23 @@ title: "Who Wrote This?"
 
 # Who is Raj Duggal?
 
-So, you're curious to know who wrote this, and why?  I'll tell you...
-
-It's been a long long journey for me.  28 years as an I.T professional.
-
-I began my software development career here in Toronto, back in the mid 90s.
-
-Back in the 90s, it was typical for software projects to be based on a gating system.  Where the project went through distinct scheduled phases. 
-
-First was the design phase, then development, then testing, until it was eventually deployed into production.
-
-But!, only after the stakeholders agreed that everything looked good, and they signed off that all the work was complete,  and they wouldn't be asked for more changes.
-
-Between each of the phases there was a "gate" where the stakeholders needed to sign-off to formally agree that they felt the project was ready to move to the next phase. 
 
 
-It was pretty common for the stakeholders to delay and resist signing off for as long as the project schedule would allow, until they felt very very confident that all the needed work in the phase was "done". Because they didn't want any one complaining if they wanted to go back and change something.
 
-And, in the situations where a stakeholder decided that some new change would be needed, there was a "change control" process, to formalize the "change request" process.
+So, you’re curious to know who’s behind this website and why? Let me tell you…
 
-For most projects, it was generally considered a bad thing if changes happened mid-way through the project.
+It’s been quite the journey—over 25 years in I.T.
 
-The thing is... change always always happened. It was **inevitable**!
+My software development career started here in Toronto in the mid-90s, a time when tech was very different from today. Back then, software projects followed a strict, step-by-step approach known as the "gating" system. Projects moved through clearly defined phases: design, development, testing, and finally, deployment. But there was a catch: each phase needed a formal sign-off before moving to the next, which meant endless back-and-forth to get everything “just right” before advancing.
 
-In pretty much every software project I've been involved in.  And so most projects had this internal built in pressure, conflict, and negotiation that no one liked, but everyone knew they would need to deal with at some point during the project.
+In those days, stakeholders would often hold off on signing until they felt 110% sure that everything was perfect, as any further tweaks would require a tedious “change control” process. Change was seen as a problem, something to avoid, and a cause for long debates and delays.
 
-The [Manifesto for Agile Software Development](https://agilemanifesto.org/) provided a launching board to encourage  conversations to re-assess the way we've been developming software from a first-principles approach.
+But here’s the reality—change *always* happens. I can’t think of a single project where something didn’t need adjusting midway. Yet, this old-school process led to friction, delays, and a lot of stress all around.
 
-Since change is inevitable. How can we develop and deliver software in way that embraces the idea of "change" into the development process.  Rather than trying to fight it.
+When the [Manifesto for Agile Software Development](https://agilemanifesto.org/) it was a game-changer. It encouraged us to rethink software development from the ground up, embracing change rather than resisting it. The big question was, “If change is inevitable, why not build it right into the process?”
 
+Since then, I’ve worked with countless clients and watched agile evolve into one of the most popular approaches in software development. But here’s the thing: even though agile is everywhere now, I often see teams missing the core of what it’s really about. They’re using the lingo, but sometimes without fully understanding the purpose behind these practices—how they’re meant to make projects more adaptable, collaborative, and ultimately successful.
 
-Over the years, I've worked on many many client engagements, and I've seen the popularity of "agile" grow. Yet! It seems, unfortunately, that in most cases, the underlying ideas are being missed at a foundational level.  And it seems that many of the participants of agile projects, are using the buzz words, but not understanding why these practices exist. And how they feed into project success.
+So, that’s me—a long-time software developer, coach, and consultant, with a focus on helping teams understand and truly *live* the agile mindset. After all, it’s not about rigidly following processes or sticking to buzzwords; it’s about adapting, growing, and delivering something truly valuable.
+
 

@@ -16,6 +16,11 @@ googleAnalytics = "G-YLW402WWZF"
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
 [languages]
   [languages.en]
     contentDir = 'content.en'
