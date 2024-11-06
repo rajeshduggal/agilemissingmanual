@@ -34,7 +34,12 @@
           vAxis: {title: 'Value', minValue: 0, maxValue: 10},
           tooltip: {isHtml: true},
           legend: 'none',
-          width: '100%'
+          width: '100%',
+          annotations: {
+              textStyle: {
+                  fontSize: 12
+              }
+          }
       };
       
       var chart = new google.visualization.ScatterChart(document.getElementById('{{ .Get "id" }}'));
