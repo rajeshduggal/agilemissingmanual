@@ -1,7 +1,6 @@
 ---
 weight: 1
 title: "Suggestions Instead Of Requirements"
-BookToC: false
 draft: false
 ---
 

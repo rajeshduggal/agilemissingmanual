@@ -13,6 +13,9 @@ googleAnalytics = "G-YLW402WWZF"
   # You can also set value to "*" to render all sections to menu
   BookSection = '*'
 
+  # Controls the default table of contents visibility on right side of pages.
+  BookToC = false
+
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 

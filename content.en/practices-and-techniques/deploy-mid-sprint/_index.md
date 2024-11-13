@@ -1,6 +1,7 @@
 ---
 weight: 1
 title: "Deploy Mid-Sprint"
+BookToC: true
 draft: false
 ---
 
