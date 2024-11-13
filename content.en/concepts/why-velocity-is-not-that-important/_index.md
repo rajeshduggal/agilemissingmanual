@@ -1,7 +1,6 @@
 ---
 weight: 1
 title: "Velocity Isn't Important"
-BookToC: false
 draft: false
 ---
 

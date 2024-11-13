@@ -1,7 +1,6 @@
 ---
 weight: 1
 title: "Drop Traditional Job Titles"
-BookToC: false
 draft: false
 ---
 

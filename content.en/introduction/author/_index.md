@@ -1,6 +1,5 @@
 ---
 weight: -1
-bookToc: false
 title: "Who Wrote This?"
 ---
 

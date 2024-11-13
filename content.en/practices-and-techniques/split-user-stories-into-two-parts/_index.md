@@ -1,7 +1,6 @@
 ---
 weight: 1
 title: "Split User Stories into Two Parts"
-BookToC: false
 draft: false
 ---
 

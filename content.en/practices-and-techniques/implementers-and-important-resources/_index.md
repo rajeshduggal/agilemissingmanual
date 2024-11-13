@@ -1,7 +1,6 @@
 ---
 weight: 1
 title: "Implementers & Important Resources"
-BookToC: false
 draft: false
 ---
 

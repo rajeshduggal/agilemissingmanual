@@ -1,7 +1,6 @@
 ---
 weight: 1
 title: '“Steering Meetings” Instead of "Sprint Reviews"'
-BookToC: false
 draft: false
 ---
 

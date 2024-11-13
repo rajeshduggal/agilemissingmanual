@@ -1,7 +1,6 @@
 ---
 weight: 1
 title: "QA as Part of Development"
-BookToC: false
 draft: false
 ---
 

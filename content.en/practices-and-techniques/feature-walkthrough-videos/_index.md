@@ -1,7 +1,6 @@
 ---
 weight: 1
 title: 'Feature Walkthrough Videos'
-BookToC: false
 draft: false
 ---
 

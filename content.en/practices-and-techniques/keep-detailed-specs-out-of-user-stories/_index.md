@@ -1,7 +1,6 @@
 ---
 weight: 1
 title: "Keep Detailed Specifications Out Of User Stories"
-BookToC: false
 draft: false
 ---
 
