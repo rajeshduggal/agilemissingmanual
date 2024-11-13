@@ -1,7 +1,6 @@
 ---
 weight: 1
 title: "Practices and Techniques"
-BookToC: false
 draft: false
 ---
 
@@ -15,3 +14,4 @@ draft: false
 * [Drop Traditional Job Titles]( drop-traditional-job-titles)
 * [Split User Stories into Two Parts]( split-user-stories-into-two-parts)
 * [Implementers & Important Resources]( implementers-and-important-resources)
+* [Why Future Sprints Should Stay Empty](only-one-sprint)
