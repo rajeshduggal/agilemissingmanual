@@ -4,9 +4,9 @@ title: "Not All Work Belongs in the Sprint"
 draft: false
 ---
 
-# Not All Work Belongs in the Sprint: The Dual-Streams of Software Development
+# Not All Work <nobr>Belongs in the Sprint:</nobr> <nobr>The Dual-Streams</nobr> of <nobr>Software Development</nobr>
 
-<iframe src="dual-streams.html" width="600" height="400" frameborder="0" allowfullscreen></iframe>
+<iframe src="dual-streams.html" width="100%" height="370" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 In agile development, we’re often focused on user stories and sprint planning, but not every task truly belongs in a sprint. **Maintenance and infrastructure work**, like security patches, framework updates, and cloud configurations, play a crucial role in keeping an application running smoothly—but these aren’t the kind of work stakeholders usually think of when they’re discussing priorities.
 
@@ -25,7 +25,7 @@ These tasks have their own timelines and requirements, often dictated by externa
 
 In contrast, **sprint work** is about delivering value to the user—enhancements, new features, and improvements that stakeholders have asked for and prioritized.
 
-#### The Right Work for the Right Stream
+### The Right Work for the Right Stream
 
 When the stakeholders say, “Just keep the application up and running smoothly,” they’re describing a maintenance state. Maintenance work ensures that everything continues working without interruption, even if no new features are added. But when stakeholders say, “We want these new features,” they’re asking for product development, which is where sprints come in.
 
