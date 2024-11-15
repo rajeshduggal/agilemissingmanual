@@ -6,6 +6,8 @@ draft: false
 
 # Not All Work Belongs in the Sprint: The Dual-Streams of Software Development
 
+<iframe src="dual-streams.html" width="600" height="400" frameborder="0" allowfullscreen></iframe>
+
 In agile development, we’re often focused on user stories and sprint planning, but not every task truly belongs in a sprint. **Maintenance and infrastructure work**, like security patches, framework updates, and cloud configurations, play a crucial role in keeping an application running smoothly—but these aren’t the kind of work stakeholders usually think of when they’re discussing priorities.
 
 To keep things organized and efficient, teams should adopt a **dual-stream approach**: one stream dedicated to product features (the sprint) and another for infrastructure and maintenance work. This approach helps clarify responsibilities, ensures a smoother sprint process, and allows teams to focus on user-facing work without getting bogged down by behind-the-scenes tasks.
