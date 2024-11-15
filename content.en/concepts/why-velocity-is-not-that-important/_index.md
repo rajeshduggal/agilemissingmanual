@@ -6,7 +6,9 @@ draft: false
 
 # What is Velocity, and Why It’s Not That Important
 
-**Velocity** is defined as: *the amount of work (not value) that was delivered (not done) by the team in a sprint*. In other words, it’s a measure of the completed work—not necessarily the value it brings to the product or the customer.
+**Velocity** is defined as: *"The amount of work (not value) that was delivered (not done) by the team in a sprint.*"
+
+In other words, it’s a measure of the completed work—not necessarily the value it brings to the product or the customer.
 
 While velocity is often treated as a critical measure of progress, it’s actually a very limited metric. Its only real use is to help the team approximate how much work to focus on for the next sprint. Beyond that, velocity isn’t as crucial as many people assume, and here’s why.
 
