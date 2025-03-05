@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 2
 title: "Not All Work Belongs in the Sprint"
 draft: false
 ---
