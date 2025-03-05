@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: '“Steering Meetings” Instead of "Sprint Reviews"'
+title: "\"Steering Meetings\" Instead of \"Sprint Reviews\""
 draft: false
 ---
 
