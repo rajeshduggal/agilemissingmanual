@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex">
+        <title>Venn Diagram</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 50vh;
+            margin: 0;
+        }
+        .venn-container {
+            position: relative;
+            width: 50vw;
+            height: 90vh;
+            max-width: 400px;
+            max-height: 300px;
+        }
+        .circle {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            opacity: 0.5;
+        }
+        .circle1 {
+            background-color: red;
+            left: 30%;
+            top: 30%;
+        }
+        .circle2 {
+            background-color: blue;
+            right: 30%;
+            top: 30%;
+        }
+        .label {
+            position: absolute;
+            font-weight: bold;
+            font-size: 4vw;
+        }
+        .label1 { left: 0%; top: 70%; }
+        .label2 { right: 0%; top: 70%; }
+        .label3 { left: 40%; top: 70%; }
+    </style>
+</head>
+<body>
+    <div class="venn-container">
+        <div class="circle circle1"></div>
+        <div class="circle circle2"></div>
+        <div class="label label1">Scrum</div>
+        <div class="label label2">Agile</div>
+        <div class="label label3">S ∩ A</div>
+    </div>
+</body>
+</html>
+
