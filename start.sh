@@ -1,1 +1,1 @@
-hugo server -D
+hugo server -D --config hugo.toml,hugo-dev.toml
