@@ -1,0 +1,3 @@
+[privacy]
+  [privacy.googleAnalytics]
+    disable = true
