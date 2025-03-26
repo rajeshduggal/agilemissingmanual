@@ -2,6 +2,7 @@
 weight: 1
 title: "Why Future Sprints Should Stay Empty"
 draft: false
+description: "By keeping future sprints empty, teams can maintain agility, respond better to change, and prioritize quality over rigid planning."
 ---
 
 # Why Future Sprints Should Stay Empty

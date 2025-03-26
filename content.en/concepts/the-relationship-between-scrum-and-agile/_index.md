@@ -2,6 +2,7 @@
 weight: 1
 title: "The Relationship Between Scrum and Agile"
 draft: false
+description: "Is Scrum a type of Agile? Is Scrum a superset of Agile? Or are they entirely distinct concepts?"
 ---
 
 # The Relationship Between Scrum and Agile

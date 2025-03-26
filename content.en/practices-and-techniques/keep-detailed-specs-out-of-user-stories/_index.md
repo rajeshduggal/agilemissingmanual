@@ -2,6 +2,7 @@
 weight: 1
 title: "Keep Detailed Specifications Out Of User Stories"
 draft: false
+description: "Embedding specifications directly in user stories makes the stories harder to work with. The stories become bloated and difficult to adjust, split, or discard. Separate them to keep stories focused, lean, and adaptable."
 ---
 
 # Keep Detailed Specifications Out Of User Stories"

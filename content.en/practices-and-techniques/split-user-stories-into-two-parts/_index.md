@@ -2,6 +2,7 @@
 weight: 1
 title: "Split User Stories into Two Parts"
 draft: false
+description: "splitting stories into two parts gives the team the flexibility to jot down technical notes without cluttering the product owner’s main vision."
 ---
 
 # Split User Stories into Two Parts: For the Product Owner and the Implementors

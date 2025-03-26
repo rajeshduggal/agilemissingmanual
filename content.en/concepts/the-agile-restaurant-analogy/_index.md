@@ -2,6 +2,7 @@
 weight: 1
 title: "The Agile Restaurant Analogy"
 draft: false
+description: "This analogy highlights the teamwork, adaptability, and customer-centric approach that drive both a successful restaurant and a well-functioning agile team."
 ---
 
 # The Agile Restaurant Analogy

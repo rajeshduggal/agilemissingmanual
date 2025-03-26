@@ -2,6 +2,7 @@
 weight: 1
 title: "QA as Part of Development"
 draft: false
+description: "Make QA a part of development, enabling your team to catch issues early, streamline testing, and ensure we’re building high-quality software from the very start. Treat quality as part of development."
 ---
 
 # QA as Part of Development

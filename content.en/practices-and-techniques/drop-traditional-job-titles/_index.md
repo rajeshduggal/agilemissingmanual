@@ -2,6 +2,7 @@
 weight: 1
 title: "Drop Traditional Job Titles"
 draft: false
+description: "Traditional job titles reflect valuable expertise, but they can also encourage people to silo themselves into specific tasks."
 ---
 
 # Why Agile Teams Should Drop Traditional Job Titles

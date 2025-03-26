@@ -2,6 +2,7 @@
 weight: 2
 title: "Not All Work Belongs in the Sprint"
 draft: false
+description: "Have one stream dedicated to product features and another for infrastructure and maintenance work. This allows teams to focus on user-facing work without getting bogged down by behind-the-scenes tasks."
 ---
 
 # Not All Work <nobr>Belongs in the Sprint:</nobr> <nobr>The Dual-Streams</nobr> of <nobr>Software Development</nobr>

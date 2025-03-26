@@ -2,6 +2,7 @@
 weight: 1
 title: "Feature Walkthrough Videos"
 draft: false
+description: "With on-demand videos, everyone can stay informed at their own pace, offer timely feedback, and maintain a continuous feedback loop throughout the sprint."
 ---
 
 # Ditch the Sprint Review Demos: Use Walkthrough Videos Instead

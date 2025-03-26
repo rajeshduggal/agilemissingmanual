@@ -2,6 +2,7 @@
 weight: 1
 title: "\"Steering Meetings\" Instead of \"Sprint Reviews\""
 draft: false
+description: "By replacing Sprint Reviews with Steering Meetings, teams can foster a more interactive and proactive approach, keeping everyone aligned on the project’s direction."
 ---
 
 # Rethinking the Sprint Review: Why a “Steering Meeting” is Better

@@ -3,6 +3,7 @@ weight: 1
 title: "Deploy Mid-Sprint"
 BookToC: true
 draft: false
+description: "Is deploying at the end of each sprint the best approach? What if we deploy as soon as each feature or improvement is ready? Here’s why deploying mid-sprint can help."
 ---
 
 # Deploy Mid-Sprint
