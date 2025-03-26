@@ -2,6 +2,7 @@
 weight: 3
 title: "Velocity Isn't Important"
 draft: false
+description: "Velocity is treated as a measure of progress, but its only real use is to help the team approximate how much work to focus on for the next sprint."
 ---
 
 # What is Velocity, and Why It’s Not That Important

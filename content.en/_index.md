@@ -2,6 +2,7 @@
 title: "Introduction"
 BookToC: false
 type: docs
+description: "Insights explaining the agile approach, giving clarity to foundational ideas and addressing common misunderstandings." 
 ---
 
 {{< google_chart id="my_chart_div" >}}

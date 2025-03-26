@@ -2,6 +2,7 @@
 weight: 1
 title: "Implementers & Important Resources"
 draft: false
+description: "By clearly defining who is an Implementer and who is an Important Resource, agile teams can improve efficiency, collaboration, and timeline accuracy."
 ---
 
 # Clarifying Roles in Agile Teams: Implementers and Important Resources

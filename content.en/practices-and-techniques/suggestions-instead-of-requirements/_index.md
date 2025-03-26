@@ -2,6 +2,7 @@
 weight: 1
 title: "Suggestions Instead Of Requirements"
 draft: false
+description: "Using \"suggestions\" opens the door for feedback from the team that might improve the end result. While  \"Specifications\" should be reserved for things that genuinely need to be strictly adhered to."
 ---
 
 # Specs & Suggestions: Rethinking Requirements in Agile

@@ -2,6 +2,7 @@
 weight: 1
 title: "What's the Problem?"
 draft: false
+description: "Agile has drifted from its original intent. The Agile Manifesto sparked great discussions among developers but somewhere down the line, agile started to lose its way."
 ---
 
 # What's the Problem?
